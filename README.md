@@ -4,4 +4,7 @@ Scraped all the Data using BeautifulSoup to create the csv file.
 Topics
 ------------
 Most Used Genres <br />
-Most Grossing Genres
+Most Grossing Genres <br />
+Average Duration in Minutes by Genre <br />
+Average Awar Win Percentage (Awards / Total Nominations) by Genre <br />
+Percentage of Movies in Top 250 Before and Afte 2000
