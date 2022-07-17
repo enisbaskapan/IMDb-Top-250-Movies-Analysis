@@ -1,0 +1,251 @@
+rank,title,year,director,duration(minutes),genre,rating,gross,oscars,awards,nominations
+1,The Shawshank Redemption,1994,Frank Darabont,142,['Drama'],9.2,28884504,0,21,43
+2,The Godfather,1972,Francis Ford Coppola,175,"['Crime', 'Drama']",9.2,250341816,3,31,30
+3,The Dark Knight,2008,Christopher Nolan,152,"['Action', 'Crime', 'Drama']",9.0,1006102277,2,159,163
+4,The Godfather Part II,1974,Francis Ford Coppola,202,"['Crime', 'Drama']",9.0,47961919,6,17,20
+5,12 Angry Men,1957,Sidney Lumet,96,"['Crime', 'Drama']",8.9,955,0,17,13
+6,Schindler's List,1993,Steven Spielberg,195,"['Biography', 'Drama', 'History']",8.9,322161245,7,91,49
+7,The Lord of the Rings: The Return of the King,2003,Peter Jackson,201,"['Action', 'Adventure', 'Drama']",8.9,1146436214,1,209,124
+8,Pulp Fiction,1994,Quentin Tarantino,154,"['Crime', 'Drama']",8.9,213928762,1,70,75
+9,The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson,178,"['Action', 'Adventure', 'Drama']",8.8,898094742,4,121,126
+10,"Il buono, il brutto, il cattivo",1966,Sergio Leone,161,"['Adventure', 'Western']",8.8,25253887,0,3,6
+11,Forrest Gump,1994,Robert Zemeckis,142,"['Drama', 'Romance']",8.8,678226133,6,50,75
+12,Fight Club,1999,David Fincher,139,['Drama'],8.7,101209702,0,11,38
+13,Inception,2010,Christopher Nolan,148,"['Action', 'Adventure', 'Sci-Fi']",8.7,836848102,4,157,220
+14,The Lord of the Rings: The Two Towers,2002,Peter Jackson,179,"['Action', 'Adventure', 'Drama']",8.7,947896241,2,126,138
+15,The Empire Strikes Back,1980,Irvin Kershner,124,"['Action', 'Adventure', 'Fantasy']",8.7,538375067,1,25,20
+16,The Matrix,1999,Lana Wachowski,136,"['Action', 'Sci-Fi']",8.7,467222728,4,42,51
+17,Goodfellas,1990,Martin Scorsese,145,"['Biography', 'Crime', 'Drama']",8.7,47036784,1,44,38
+18,One Flew Over the Cuckoo's Nest,1975,Milos Forman,133,['Drama'],8.6,109114817,5,38,16
+19,Se7en,1995,David Fincher,127,"['Crime', 'Drama', 'Mystery']",8.6,327333559,0,29,43
+20,Shichinin no samurai,1954,Akira Kurosawa,207,"['Action', 'Drama']",8.6,346258,0,5,8
+21,It's a Wonderful Life,1946,Frank Capra,130,"['Drama', 'Family', 'Fantasy']",8.6,6184298,0,6,6
+22,The Silence of the Lambs,1991,Jonathan Demme,118,"['Crime', 'Drama', 'Thriller']",8.6,272742922,5,69,51
+23,Cidade de Deus,2002,Fernando Meirelles,130,"['Crime', 'Drama']",8.6,30680793,0,74,50
+24,Saving Private Ryan,1998,Steven Spielberg,169,"['Drama', 'War']",8.6,482349603,5,79,75
+25,La vita è bella,1997,Roberto Benigni,116,"['Comedy', 'Drama', 'Romance']",8.6,230098753,3,72,52
+26,The Green Mile,1999,Frank Darabont,189,"['Crime', 'Drama', 'Fantasy']",8.6,286801374,0,15,37
+27,Interstellar,2014,Christopher Nolan,169,"['Adventure', 'Drama', 'Sci-Fi']",8.6,701729206,1,44,148
+28,Star Wars,1977,George Lucas,121,"['Action', 'Adventure', 'Fantasy']",8.6,775398007,6,63,29
+29,Terminator 2: Judgment Day,1991,James Cameron,137,"['Action', 'Sci-Fi']",8.5,520881154,4,37,33
+30,Back to the Future,1985,Robert Zemeckis,116,"['Adventure', 'Comedy', 'Sci-Fi']",8.5,383336762,1,22,25
+31,Sen to Chihiro no kamikakushi,2001,Hayao Miyazaki,125,"['Animation', 'Adventure', 'Family']",8.5,355725195,1,58,31
+32,Psycho,1960,Alfred Hitchcock,109,"['Horror', 'Mystery', 'Thriller']",8.5,32052925,0,7,14
+33,The Pianist,2002,Roman Polanski,150,"['Biography', 'Drama', 'Music']",8.5,120072577,3,57,74
+34,Léon,1994,Luc Besson,110,"['Action', 'Crime', 'Drama']",8.5,19552639,0,6,15
+35,Gisaengchung,2019,Bong Joon Ho,132,"['Comedy', 'Drama', 'Thriller']",8.5,263136741,4,308,271
+36,The Lion King,1994,Roger Allers,88,"['Animation', 'Adventure', 'Drama']",8.5,1063611805,2,40,35
+37,Gladiator,2000,Ridley Scott,155,"['Action', 'Adventure', 'Drama']",8.5,465380802,5,59,106
+38,American History X,1998,Tony Kaye,119,"['Crime', 'Drama']",8.5,23875127,0,4,15
+39,The Usual Suspects,1995,Bryan Singer,106,"['Crime', 'Drama', 'Mystery']",8.5,23341568,2,37,17
+40,The Departed,2006,Martin Scorsese,151,"['Crime', 'Drama', 'Thriller']",8.5,291480452,4,97,141
+41,The Prestige,2006,Christopher Nolan,130,"['Drama', 'Mystery', 'Sci-Fi']",8.5,109676311,0,6,45
+42,Casablanca,1942,Michael Curtiz,102,"['Drama', 'Romance', 'War']",8.5,4497613,3,10,9
+43,Whiplash,2014,Damien Chazelle,106,"['Drama', 'Music']",8.5,49396747,3,98,145
+44,The Intouchables,2011,Olivier Nakache,112,"['Biography', 'Comedy', 'Drama']",8.5,426588510,0,38,40
+45,Top Gun: Maverick,2022,Joseph Kosinski,130,"['Action', 'Drama']",8.5,1211862568,0,4,4
+46,Modern Times,1936,Charles Chaplin,87,"['Comedy', 'Drama', 'Romance']",8.5,463618,0,4,1
+47,Seppuku,1962,Masaki Kobayashi,133,"['Action', 'Drama', 'Mystery']",8.4,15222,0,9,3
+48,Hotaru no haka,1988,Isao Takahata,89,"['Animation', 'Drama', 'War']",8.4,516962,0,3,3
+49,Once Upon a Time in the West,1968,Sergio Leone,165,['Western'],8.4,5434825,0,4,5
+50,Rear Window,1954,Alfred Hitchcock,112,"['Mystery', 'Thriller']",8.4,37034514,0,6,13
+51,Alien,1979,Ridley Scott,117,"['Horror', 'Sci-Fi']",8.4,106285522,1,18,22
+52,City Lights,1931,Charles Chaplin,87,"['Comedy', 'Drama', 'Romance']",8.4,50419,0,3,1
+53,Nuovo Cinema Paradiso,1988,Giuseppe Tornatore,155,"['Drama', 'Romance']",8.4,13019063,1,25,32
+54,Memento,2000,Christopher Nolan,113,"['Mystery', 'Thriller']",8.4,40047078,0,57,60
+55,Apocalypse Now,1979,Francis Ford Coppola,147,"['Drama', 'Mystery', 'War']",8.4,104658064,2,21,33
+56,Raiders of the Lost Ark,1981,Steven Spielberg,115,"['Action', 'Adventure']",8.4,389925971,4,38,24
+57,Django Unchained,2012,Quentin Tarantino,165,"['Drama', 'Western']",8.4,426074373,2,58,158
+58,WALL·E,2008,Andrew Stanton,98,"['Animation', 'Adventure', 'Family']",8.4,521311890,1,94,95
+59,The Lives of Others,2006,Florian Henckel von Donnersmarck,137,"['Drama', 'Mystery', 'Thriller']",8.4,77356942,1,80,38
+60,Sunset Blvd.,1950,Billy Wilder,110,"['Drama', 'Film-Noir']",8.4,300073,3,18,20
+61,Paths of Glory,1957,Stanley Kubrick,88,"['Drama', 'War']",8.4,5252,0,7,4
+62,The Shining,1980,Stanley Kubrick,146,"['Drama', 'Horror']",8.4,47299460,0,4,8
+63,The Great Dictator,1940,Charles Chaplin,125,"['Comedy', 'Drama', 'War']",8.4,970263,0,6,6
+64,Witness for the Prosecution,1957,Billy Wilder,116,"['Crime', 'Drama', 'Mystery']",8.4,7693,0,4,16
+65,Avengers: Infinity War,2018,Anthony Russo,149,"['Action', 'Adventure', 'Sci-Fi']",8.4,2048359754,0,46,79
+66,Aliens,1986,James Cameron,137,"['Action', 'Adventure', 'Sci-Fi']",8.3,131060248,2,20,23
+67,American Beauty,1999,Sam Mendes,122,['Drama'],8.3,356296601,5,111,102
+68,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Stanley Kubrick,95,"['Comedy', 'War']",8.3,9523464,0,14,11
+69,Spider-Man: Into the Spider-Verse,2018,Bob Persichetti,117,"['Animation', 'Action', 'Adventure']",8.3,375540831,1,82,57
+70,The Dark Knight Rises,2012,Christopher Nolan,164,"['Action', 'Drama']",8.3,1081153097,0,39,103
+71,Oldeuboi,2003,Park Chan-wook,120,"['Action', 'Drama', 'Mystery']",8.3,15194593,0,40,21
+72,Joker,2019,Todd Phillips,122,"['Crime', 'Drama', 'Thriller']",8.3,1074445730,2,122,239
+73,Amadeus,1984,Milos Forman,160,"['Biography', 'Drama', 'Music']",8.3,52066791,8,43,15
+74,Braveheart,1995,Mel Gibson,178,"['Biography', 'Drama', 'History']",8.3,213216216,5,33,34
+75,Toy Story,1995,John Lasseter,81,"['Animation', 'Adventure', 'Comedy']",8.3,394436586,0,27,23
+76,Coco,2017,Lee Unkrich,105,"['Animation', 'Adventure', 'Comedy']",8.3,807817888,2,109,40
+77,Das Boot,1981,Wolfgang Petersen,149,"['Drama', 'War']",8.3,11487676,0,13,11
+78,Inglourious Basterds,2009,Quentin Tarantino,153,"['Adventure', 'Drama', 'War']",8.3,321457747,1,133,172
+79,Mononoke-hime,1997,Hayao Miyazaki,134,"['Animation', 'Adventure', 'Fantasy']",8.3,169785704,0,14,7
+80,Avengers: Endgame,2019,Anthony Russo,181,"['Action', 'Adventure', 'Drama']",8.3,2797501328,0,70,132
+81,Once Upon a Time in America,1984,Sergio Leone,229,"['Crime', 'Drama']",8.3,5473337,2,12,12
+82,Good Will Hunting,1997,Gus Van Sant,126,"['Drama', 'Romance']",8.3,225933435,2,24,61
+83,Toy Story 3,2010,Lee Unkrich,103,"['Animation', 'Adventure', 'Comedy']",8.3,1066970811,2,61,96
+84,Requiem for a Dream,2000,Darren Aronofsky,102,['Drama'],8.3,7390108,0,37,70
+85,Kimi no na wa.,2016,Makoto Shinkai,106,"['Animation', 'Drama', 'Fantasy']",8.3,358180115,0,16,26
+86,Singin' in the Rain,1952,Stanley Donen,103,"['Comedy', 'Musical', 'Romance']",8.3,1923485,0,7,9
+87,3 Idiots,2009,Rajkumar Hirani,170,"['Comedy', 'Drama']",8.3,60262836,0,63,28
+88,Star Wars: Episode VI - Return of the Jedi,1983,Richard Marquand,131,"['Action', 'Adventure', 'Fantasy']",8.3,475106177,0,23,20
+89,2001: A Space Odyssey,1968,Stanley Kubrick,149,"['Adventure', 'Sci-Fi']",8.3,65877808,1,16,12
+90,Eternal Sunshine of the Spotless Mind,2004,Michel Gondry,108,"['Drama', 'Romance', 'Sci-Fi']",8.3,74036715,1,73,111
+91,Reservoir Dogs,1992,Quentin Tarantino,99,"['Crime', 'Drama', 'Thriller']",8.3,2913644,0,12,23
+92,Tengoku to jigoku,1963,Akira Kurosawa,143,"['Crime', 'Drama', 'Mystery']",8.3,46808,0,3,3
+93,Capharnaüm,2018,Nadine Labaki,126,['Drama'],8.3,64417003,0,37,55
+94,Citizen Kane,1941,Orson Welles,119,"['Drama', 'Mystery']",8.3,1645133,1,11,13
+95,Lawrence of Arabia,1962,David Lean,218,"['Adventure', 'Biography', 'Drama']",8.3,45716692,7,31,15
+96,Jagten,2012,Thomas Vinterberg,115,['Drama'],8.3,15843274,0,38,73
+97,M - Eine Stadt sucht einen Mörder,1931,Fritz Lang,117,"['Crime', 'Mystery', 'Thriller']",8.3,35566,0,2,2
+98,North by Northwest,1959,Alfred Hitchcock,136,"['Action', 'Adventure', 'Mystery']",8.3,142319,0,8,10
+99,Vertigo,1958,Alfred Hitchcock,128,"['Mystery', 'Romance', 'Thriller']",8.2,7798120,0,8,7
+100,Le fabuleux destin d'Amélie Poulain,2001,Jean-Pierre Jeunet,122,"['Comedy', 'Romance']",8.2,174122191,0,59,74
+101,Idi i smotri,1985,Elem Klimov,142,"['Drama', 'Thriller', 'War']",8.2,20929648,0,3,3
+102,A Clockwork Orange,1971,Stanley Kubrick,136,"['Crime', 'Sci-Fi']",8.2,26960374,0,12,24
+103,Full Metal Jacket,1987,Stanley Kubrick,116,"['Drama', 'War']",8.2,46357676,0,8,15
+104,Double Indemnity,1944,Billy Wilder,107,"['Crime', 'Drama', 'Film-Noir']",8.2,14190,0,2,9
+105,The Apartment,1960,Billy Wilder,125,"['Comedy', 'Drama', 'Romance']",8.2,18778738,5,24,8
+106,Scarface,1983,Brian De Palma,170,"['Crime', 'Drama']",8.2,65884703,0,8,8
+107,Ikiru,1952,Akira Kurosawa,143,['Drama'],8.2,96302,0,5,2
+108,The Sting,1973,George Roy Hill,129,"['Comedy', 'Crime', 'Drama']",8.2,156000000,7,18,6
+109,To Kill a Mockingbird,1962,Robert Mulligan,129,"['Crime', 'Drama']",8.2,599146,3,14,16
+110,Taxi Driver,1976,Martin Scorsese,114,"['Crime', 'Drama']",8.2,28570902,0,22,20
+111,Up,2009,Pete Docter,96,"['Animation', 'Adventure', 'Comedy']",8.2,735099102,2,79,87
+112,L.A. Confidential,1997,Curtis Hanson,138,"['Crime', 'Drama', 'Mystery']",8.2,126216940,2,92,86
+113,Heat,1995,Michael Mann,170,"['Action', 'Crime', 'Drama']",8.2,187436818,0,14,14
+114,Metropolis,1927,Fritz Lang,153,"['Drama', 'Sci-Fi']",8.2,1349711,0,6,7
+115,Jodaeiye Nader az Simin,2011,Asghar Farhadi,123,['Drama'],8.2,22926076,1,89,50
+116,Die Hard,1988,John McTiernan,132,"['Action', 'Thriller']",8.2,141603197,0,8,6
+117,Incendies,2010,Denis Villeneuve,131,"['Drama', 'Mystery']",8.2,6788659,0,40,18
+118,Snatch,2000,Guy Ritchie,104,"['Comedy', 'Crime']",8.2,83557872,0,4,7
+119,Hamilton,2020,Thomas Kail,160,"['Biography', 'Drama', 'History']",8.2,,2,19,46
+120,Indiana Jones and the Last Crusade,1989,Steven Spielberg,127,"['Action', 'Adventure']",8.2,474171806,1,8,22
+121,Ladri di biciclette,1948,Vittorio De Sica,89,['Drama'],8.2,436655,0,20,3
+122,1917,2019,Sam Mendes,119,"['Action', 'Drama', 'War']",8.2,384919389,3,135,206
+123,Taare Zameen Par,2007,Aamir Khan,165,"['Drama', 'Family']",8.2,21897373,0,25,19
+124,Der Untergang,2004,Oliver Hirschbiegel,156,"['Biography', 'Drama', 'History']",8.2,92181574,0,22,34
+125,Per qualche dollaro in più,1965,Sergio Leone,132,['Western'],8.2,15000000,0,2,2
+126,Batman Begins,2005,Christopher Nolan,140,"['Action', 'Crime', 'Drama']",8.2,373672993,0,13,79
+127,Dangal,2016,Nitesh Tiwari,161,"['Action', 'Biography', 'Drama']",8.2,303723636,0,29,27
+128,Spider-Man: No Way Home,2021,Jon Watts,148,"['Action', 'Adventure', 'Fantasy']",8.2,1901232550,0,31,56
+129,The Kid,1921,Charles Chaplin,68,"['Comedy', 'Drama', 'Family']",8.2,41960,0,2,2
+130,Some Like It Hot,1959,Billy Wilder,121,"['Comedy', 'Music', 'Romance']",8.2,195088,1,15,15
+131,All About Eve,1950,Joseph L. Mankiewicz,138,['Drama'],8.2,151052,6,26,20
+132,The Father,2020,Florian Zeller,97,"['Drama', 'Mystery']",8.2,24855200,2,35,158
+133,Green Book,2018,Peter Farrelly,130,"['Biography', 'Comedy', 'Drama']",8.2,321752656,3,59,124
+134,The Wolf of Wall Street,2013,Martin Scorsese,180,"['Biography', 'Comedy', 'Crime']",8.2,392000694,0,37,179
+135,Judgment at Nuremberg,1961,Stanley Kramer,179,"['Drama', 'War']",8.2,12180,2,16,25
+136,Ran,1985,Akira Kurosawa,162,"['Action', 'Drama', 'War']",8.2,4164283,1,30,23
+137,Unforgiven,1992,Clint Eastwood,130,"['Drama', 'Western']",8.2,159167799,4,50,47
+138,Casino,1995,Martin Scorsese,178,"['Crime', 'Drama']",8.2,116112375,0,4,11
+139,Pan's Labyrinth,2006,Guillermo del Toro,118,"['Drama', 'Fantasy', 'War']",8.2,83862032,3,109,115
+140,There Will Be Blood,2007,Paul Thomas Anderson,158,['Drama'],8.2,76182388,2,116,137
+141,The Sixth Sense,1999,M. Night Shyamalan,107,"['Drama', 'Mystery', 'Thriller']",8.2,672806432,0,37,56
+142,A Beautiful Mind,2001,Ron Howard,135,"['Biography', 'Drama']",8.2,316791257,4,37,69
+143,The Truman Show,1998,Peter Weir,103,"['Comedy', 'Drama']",8.2,264118201,0,40,69
+144,Monty Python and the Holy Grail,1975,Terry Gilliam,91,"['Adventure', 'Comedy', 'Fantasy']",8.2,1940906,0,3,3
+145,Yôjinbô,1961,Akira Kurosawa,110,"['Action', 'Drama', 'Thriller']",8.2,46808,0,4,2
+146,The Treasure of the Sierra Madre,1948,John Huston,126,"['Adventure', 'Drama', 'Western']",8.1,5014000,3,16,8
+147,Shutter Island,2010,Martin Scorsese,138,"['Mystery', 'Thriller']",8.1,294805697,0,11,66
+148,Rashômon,1950,Akira Kurosawa,88,"['Crime', 'Drama', 'Mystery']",8.1,46808,0,9,5
+149,Jurassic Park,1993,Steven Spielberg,127,"['Action', 'Adventure', 'Sci-Fi']",8.1,1099699003,3,44,27
+150,The Great Escape,1963,John Sturges,172,"['Adventure', 'Drama', 'History']",8.1,228178,0,3,11
+151,Kill Bill: Vol. 1,2003,Quentin Tarantino,111,"['Action', 'Crime', 'Drama']",8.1,180906076,0,29,104
+152,No Country for Old Men,2007,Ethan Coen,122,"['Crime', 'Drama', 'Thriller']",8.1,171627166,4,163,140
+153,Everything Everywhere All at Once,2022,Dan Kwan,139,"['Action', 'Adventure', 'Comedy']",8.1,94046429,0,8,2
+154,Finding Nemo,2003,Andrew Stanton,100,"['Animation', 'Adventure', 'Comedy']",8.1,940352645,1,48,63
+155,The Elephant Man,1980,David Lynch,124,"['Biography', 'Drama']",8.1,26023860,0,10,22
+156,Chinatown,1974,Roman Polanski,130,"['Drama', 'Mystery', 'Thriller']",8.1,29225935,1,21,24
+157,Raging Bull,1980,Martin Scorsese,129,"['Biography', 'Drama', 'Sport']",8.1,23402427,2,24,28
+158,Gone with the Wind,1939,Victor Fleming,238,"['Drama', 'Romance', 'War']",8.1,402382193,8,21,12
+159,V for Vendetta,2006,James McTeigue,132,"['Action', 'Drama', 'Sci-Fi']",8.1,132511035,0,7,29
+160,The Thing,1982,John Carpenter,109,"['Horror', 'Mystery', 'Sci-Fi']",8.1,19632715,0,3,3
+161,Inside Out,2015,Pete Docter,95,"['Animation', 'Adventure', 'Comedy']",8.1,858848019,1,101,116
+162,"Lock, Stock and Two Smoking Barrels",1998,Guy Ritchie,107,"['Action', 'Comedy', 'Crime']",8.1,3753929,1,13,9
+163,Dial M for Murder,1954,Alfred Hitchcock,105,"['Crime', 'Thriller']",8.1,31207,0,5,3
+164,El secreto de sus ojos,2009,Juan José Campanella,129,"['Drama', 'Mystery', 'Romance']",8.1,35079650,1,53,43
+165,Hauru no ugoku shiro,2004,Hayao Miyazaki,119,"['Animation', 'Adventure', 'Family']",8.1,236323601,0,14,20
+166,The Bridge on the River Kwai,1957,David Lean,161,"['Adventure', 'Drama', 'War']",8.1,27200000,7,30,8
+167,"Three Billboards Outside Ebbing, Missouri",2017,Martin McDonagh,115,"['Comedy', 'Crime', 'Drama']",8.1,160260573,2,133,235
+168,Trainspotting,1996,Danny Boyle,93,['Drama'],8.1,16767475,0,23,35
+169,Warrior,2011,Gavin O'Connor,140,"['Action', 'Drama', 'Sport']",8.1,23308615,0,5,22
+170,Gran Torino,2008,Clint Eastwood,116,['Drama'],8.1,269958228,0,21,22
+171,Fargo,1996,Joel Coen,98,"['Crime', 'Thriller']",8.1,60611975,2,83,58
+172,Prisoners,2013,Denis Villeneuve,153,"['Crime', 'Drama', 'Mystery']",8.1,122126687,0,10,38
+173,Tonari no Totoro,1988,Hayao Miyazaki,86,"['Animation', 'Comedy', 'Family']",8.1,30574632,0,5,2
+174,Million Dollar Baby,2004,Clint Eastwood,132,"['Drama', 'Sport']",8.1,216763646,4,67,86
+175,The Gold Rush,1925,Charles Chaplin,95,"['Adventure', 'Comedy', 'Drama']",8.1,27123,0,3,3
+176,Catch Me If You Can,2002,Steven Spielberg,141,"['Biography', 'Crime', 'Drama']",8.1,352114312,0,16,46
+177,Blade Runner,1982,Ridley Scott,117,"['Action', 'Drama', 'Sci-Fi']",8.1,41722424,0,12,19
+178,On the Waterfront,1954,Elia Kazan,108,"['Crime', 'Drama', 'Thriller']",8.1,,8,30,9
+179,The Third Man,1949,Carol Reed,104,"['Film-Noir', 'Mystery', 'Thriller']",8.1,1226507,1,5,4
+180,Bacheha-Ye aseman,1997,Majid Majidi,89,"['Drama', 'Family', 'Sport']",8.1,933933,0,13,5
+181,Ben-Hur,1959,William Wyler,212,"['Adventure', 'Drama']",8.1,74437720,1,29,16
+182,The General,1926,Clyde Bruckman,67,"['Action', 'Adventure', 'Comedy']",8.1,,0,2,1
+183,12 Years a Slave,2013,Steve McQueen,134,"['Biography', 'Drama', 'History']",8.1,187733202,3,242,337
+184,Smultronstället,1957,Ingmar Bergman,91,"['Drama', 'Romance']",8.1,58880,0,18,4
+185,Before Sunrise,1995,Richard Linklater,101,"['Drama', 'Romance']",8.1,5987386,0,1,7
+186,Gone Girl,2014,David Fincher,149,"['Drama', 'Mystery', 'Thriller']",8.1,369330363,0,64,188
+187,Harry Potter and the Deathly Hallows: Part 2,2011,David Yates,130,"['Adventure', 'Fantasy', 'Mystery']",8.1,1342359942,0,46,94
+188,The Deer Hunter,1978,Michael Cimino,183,"['Drama', 'War']",8.1,49074379,5,24,27
+189,In the Name of the Father,1993,Jim Sheridan,133,"['Biography', 'Crime', 'Drama']",8.1,65796862,0,7,41
+190,The Grand Budapest Hotel,2014,Wes Anderson,99,"['Adventure', 'Comedy', 'Crime']",8.1,173082189,4,134,226
+191,Mr. Smith Goes to Washington,1939,Frank Capra,129,"['Comedy', 'Drama']",8.1,144738,1,6,16
+192,Le salaire de la peur,1953,Henri-Georges Clouzot,131,"['Adventure', 'Drama', 'Thriller']",8.1,1098,1,1,6
+193,Barry Lyndon,1975,Stanley Kubrick,185,"['Adventure', 'Drama', 'War']",8.1,198992,4,19,15
+194,Sherlock Jr.,1924,Buster Keaton,45,"['Action', 'Comedy', 'Romance']",8.1,977375,0,1,1
+195,Salinui chueok,2003,Bong Joon Ho,131,"['Crime', 'Drama', 'Mystery']",8.1,1166717,0,33,5
+196,Klaus,2019,Sergio Pablos,96,"['Animation', 'Adventure', 'Comedy']",8.1,,0,11,26
+197,Hacksaw Ridge,2016,Mel Gibson,139,"['Biography', 'Drama', 'History']",8.1,180563636,2,56,115
+198,Det sjunde inseglet,1957,Ingmar Bergman,96,"['Drama', 'Fantasy']",8.1,298867,0,10,2
+199,Room,2015,Lenny Abrahamson,118,"['Drama', 'Thriller']",8.1,35401758,1,108,140
+200,Relatos salvajes,2014,Damián Szifron,122,"['Comedy', 'Drama', 'Thriller']",8.1,30642704,0,49,58
+201,The Big Lebowski,1998,Joel Coen,117,"['Comedy', 'Crime']",8.1,46969409,0,5,18
+202,Mad Max: Fury Road,2015,George Miller,120,"['Action', 'Adventure', 'Sci-Fi']",8.1,375709470,6,247,233
+203,How to Train Your Dragon,2010,Dean DeBlois,98,"['Animation', 'Action', 'Adventure']",8.1,494879471,0,25,63
+204,Mary and Max.,2009,Adam Elliot,92,"['Animation', 'Comedy', 'Drama']",8.1,1740429,0,5,9
+205,"Monsters, Inc.",2001,Pete Docter,92,"['Animation', 'Adventure', 'Comedy']",8.1,579707738,1,15,38
+206,Jaws,1975,Steven Spielberg,124,"['Adventure', 'Thriller']",8.1,471411300,3,15,20
+207,La passion de Jeanne d'Arc,1928,Carl Theodor Dreyer,110,"['Biography', 'Drama', 'History']",8.1,21877,0,5,2
+208,Tôkyô monogatari,1953,Yasujirô Ozu,136,['Drama'],8.1,37880,0,3,3
+209,Dead Poets Society,1989,Peter Weir,128,"['Comedy', 'Drama']",8.1,235860116,1,20,19
+210,Hotel Rwanda,2004,Terry George,121,"['Biography', 'Drama', 'History']",8.1,33882243,0,16,49
+211,Rocky,1976,John G. Avildsen,120,"['Drama', 'Sport']",8.0,117250402,3,20,22
+212,Pather Panchali,1955,Satyajit Ray,125,['Drama'],8.0,135342,0,11,2
+213,Platoon,1986,Oliver Stone,120,"['Drama', 'War']",8.0,138545632,4,24,15
+214,Ford v Ferrari,2019,James Mangold,152,"['Action', 'Biography', 'Drama']",8.0,225508210,2,25,91
+215,Stand by Me,1986,Rob Reiner,89,"['Adventure', 'Drama']",8.0,52287414,0,5,11
+216,The Terminator,1984,James Cameron,107,"['Action', 'Sci-Fi']",8.0,78371200,0,8,6
+217,Spotlight,2015,Tom McCarthy,129,"['Biography', 'Crime', 'Drama']",8.0,98690254,2,124,143
+218,Rush,2013,Ron Howard,123,"['Action', 'Biography', 'Drama']",8.0,96983009,1,6,65
+219,Network,1976,Sidney Lumet,121,['Drama'],8.0,23690757,4,20,26
+220,Into the Wild,2007,Sean Penn,148,"['Adventure', 'Biography', 'Drama']",8.0,56675895,0,23,106
+221,Logan,2017,James Mangold,137,"['Action', 'Drama', 'Sci-Fi']",8.0,619179950,0,28,80
+222,The Wizard of Oz,1939,Victor Fleming,102,"['Adventure', 'Family', 'Fantasy']",8.0,25637669,2,13,16
+223,Ratatouille,2007,Brad Bird,111,"['Animation', 'Adventure', 'Comedy']",8.0,623726085,1,67,42
+224,Groundhog Day,1993,Harold Ramis,101,"['Comedy', 'Drama', 'Fantasy']",8.0,71108591,1,7,17
+225,Before Sunset,2004,Richard Linklater,80,"['Drama', 'Romance']",8.0,15849759,0,9,32
+226,The Exorcist,1973,William Friedkin,122,['Horror'],8.0,441306145,2,16,17
+227,The Best Years of Our Lives,1946,William Wyler,170,"['Drama', 'Romance', 'War']",8.0,23656620,7,21,4
+228,The Incredibles,2004,Brad Bird,115,"['Animation', 'Action', 'Adventure']",8.0,631607053,2,67,56
+229,To Be or Not to Be,1942,Ernst Lubitsch,99,"['Comedy', 'Romance', 'War']",8.0,4578000,0,2,2
+230,The Grapes of Wrath,1940,John Ford,129,['Drama'],8.0,,2,10,5
+231,Rebecca,1940,Alfred Hitchcock,130,"['Drama', 'Film-Noir', 'Mystery']",8.0,72275,2,7,10
+232,La battaglia di Algeri,1966,Gillo Pontecorvo,121,"['Drama', 'War']",8.0,962002,0,9,9
+233,Hachi: A Dog's Tale,2009,Lasse Hallström,93,"['Biography', 'Drama', 'Family']",8.0,46749646,0,1,1
+234,Cool Hand Luke,1967,Stuart Rosenberg,127,"['Crime', 'Drama']",8.0,67,1,4,10
+235,Amores perros,2000,Alejandro G. Iñárritu,154,"['Drama', 'Thriller']",8.0,20908467,0,55,25
+236,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Gore Verbinski,143,"['Action', 'Adventure', 'Fantasy']",8.0,654264015,0,38,104
+237,La haine,1995,Mathieu Kassovitz,98,"['Crime', 'Drama']",8.0,412914,0,8,15
+238,Les quatre cents coups,1959,François Truffaut,99,"['Crime', 'Drama']",8.0,127244,0,10,7
+239,Persona,1966,Ingmar Bergman,85,"['Drama', 'Thriller']",8.0,90556,0,11,5
+240,Babam ve Oglum,2005,Cagan Irmak,108,"['Drama', 'Family']",8.0,18612999,0,14,7
+241,It Happened One Night,1934,Frank Capra,105,"['Comedy', 'Romance']",8.0,,5,11,2
+242,Life of Brian,1979,Terry Jones,94,['Comedy'],8.0,20745728,0,250,250
+243,The Sound of Music,1965,Robert Wise,172,"['Biography', 'Drama', 'Family']",8.0,159428329,5,17,13
+244,Dersu Uzala,1975,Akira Kurosawa,142,"['Adventure', 'Biography', 'Drama']",8.0,14480,1,8,2
+245,Ah-ga-ssi,2016,Park Chan-wook,145,"['Drama', 'Romance', 'Thriller']",8.0,37767206,1,70,108
+246,Aladdin,1992,Ron Clements,90,"['Animation', 'Adventure', 'Comedy']",8.0,504050219,2,33,22
+247,Gandhi,1982,Richard Attenborough,191,"['Biography', 'Drama']",8.0,52767889,8,35,21
+248,Jai Bhim,2021,T.J. Gnanavel,164,"['Crime', 'Drama', 'Mystery']",8.0,,0,3,2
+249,The Help,2011,Tate Taylor,146,['Drama'],8.0,216639112,1,79,121
+250,Beauty and the Beast,1991,Gary Trousdale,84,"['Animation', 'Family', 'Fantasy']",8.0,424967620,2,32,32
