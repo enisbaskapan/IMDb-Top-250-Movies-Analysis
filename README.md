@@ -3,5 +3,5 @@ Scraped all the Data using BeautifulSoup to create a csv file.
 
 Topics
 ------------
-Most Used Genres//
+Most Used Genres\n
 Most Grossing Genres
